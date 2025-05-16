@@ -1,0 +1,2 @@
+@echo off
+java -jar "C:\Users\elinm\eclipse-workspace\glossary\GlossaryApp.jar"
